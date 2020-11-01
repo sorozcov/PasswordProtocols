@@ -15,3 +15,4 @@ https://screenrec.com/share/qni7yubJG9
 ##### Silvio Orozco 18282
 ##### Rodrigo Garoz 18102
 ##### Douglas de León 18037
+##### Gerardo Méndez 18239
