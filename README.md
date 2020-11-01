@@ -8,6 +8,7 @@ python oneTimePassword.py
 ```
 You need to install Google Authenticator App and manually create a new authenticator using the information given in oneTimePassword.py .
 To verify the OTP you can check the OTP generated in the program matches the one on your device.
+
 Explained Video:
 https://screenrec.com/share/qni7yubJG9
 
