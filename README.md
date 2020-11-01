@@ -13,7 +13,18 @@ Explained Video:
 https://screenrec.com/share/qni7yubJG9
 
 
+### OTP USE scryptPassword.py
+<hr>
+
+```python
+pip install scrypt
+pip install passlib
+pip install Crypto
+python scryptPassword.py
+```
+
 ##### Silvio Orozco 18282
 ##### Rodrigo Garoz 18102
 ##### Douglas de León 18037
 ##### Gerardo Méndez 18239
+##### José Castañeda 18161
