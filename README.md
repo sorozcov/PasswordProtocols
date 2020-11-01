@@ -12,7 +12,7 @@ To verify the OTP you can check the OTP generated in the program matches the one
 Explained Video:
 https://screenrec.com/share/qni7yubJG9
 
-<br>
+
 ### OTP USE scryptPassword.py
 <hr>
 
